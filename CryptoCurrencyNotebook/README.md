@@ -1,13 +1,5 @@
-So apparently Github cannot display the plotly plots that I have created in my notebook.
+So apparently Github cannot display the plotly plots within the notebook itself.
 
-So I decided to attach screenshots of the plots here so that you may see them.
+So I decided to attach links of the plots within the notebook at the points of creation.
 
-They are attached in order of creation
-
-![Screenshot](1.png)
-![Screenshot](2.png)
-![Screenshot](3.png)
-![Screenshot](4.png)
-![Screenshot](5.png)
-![Screenshot](6.png)
-![Screenshot](7.png)
+There are also screenshots in the directory but they are not interactive like the links.
